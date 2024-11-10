@@ -15,9 +15,9 @@ if (experienciaHeroi < 1000) {
 } else if (experienciaHeroi >= 6000 && experienciaHeroi <= 7000) {
     nivelHeroi = "Ouro";
 } else if (experienciaHeroi >= 5001 && experienciaHeroi <= 8000) {
-    nivelHeroi = "Platina Diamante";
+    nivelHeroi = "Platina";
 } else if (experienciaHeroi >= 8001 && experienciaHeroi <= 9000) {
-    nivelHeroi = "Ascendente";
+    nivelHeroi = "Ascendente"
 } else if (experienciaHeroi >= 9001 && experienciaHeroi <= 10000) {
     nivelHeroi = "Imortal";
 } else if (experienciaHeroi >= 10001) {
